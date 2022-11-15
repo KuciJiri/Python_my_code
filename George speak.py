@@ -1,6 +1,6 @@
 while True:
     #Uvodni otazka
-    vstup = input("Ahoj, ja jsem George. Rad si stebou budu povidat, kdyz mi budes odepisovat malym pismem. Mohu se te tedy zeptat na par otazek... ANO/NE?: ")
+    vstup = input("Ahoj, ja jsem George. Rad si s tebou budu povidat, kdyz mi budes odepisovat malym pismem. Mohu se te tedy zeptat na par otazek... ANO/NE?: ")
     vstup = str(vstup)
 
     if vstup == "ano":
@@ -46,7 +46,7 @@ while True:
         break
 
     elif vstup == "ne":
-        print("Achjo, nikdo si semnou nechce povidat. Tak ja zase jdu, ahoj.") #Prvni otazka kdyz ne
+        print("Achjo, nikdo si se mnou nechce povidat. Tak ja zase jdu, ahoj.") #Prvni otazka kdyz ne
         break
 
     else:
