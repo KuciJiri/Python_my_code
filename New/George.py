@@ -51,3 +51,4 @@ while True:
 
     else:
         print(" Prosim odpovidej mi jen ANO nebo NE. Jsem jednoduchy program. Nejsem jeste tak inteligentni jako lide.")
+
